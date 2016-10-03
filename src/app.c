@@ -2,7 +2,7 @@
     \file app.c
     \brief Main application file.
            Made from a template from uC/OS-III.
-    \date Dic 5, 2014
+    \date Dec 5, 2014
     \author Luis M. Gallegos C.
  */
 
