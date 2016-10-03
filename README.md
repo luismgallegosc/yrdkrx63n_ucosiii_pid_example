@@ -8,6 +8,7 @@ Its purpose was to use and test the &micro;C/OS-III RTOS, implementing tasks and
 The system consisted of a PID controller, where the controlled variable was the voltage level in a capacitor, which was read through the RX63N microcontroller ADC input, and altered using the RX63N DAC output.
 Since the main objective was the use of the RTOS, the *process* being controlled was kept simple, just enough so the RTOS operations could have an effect on it which could be perceived.
 
+Source code is documented using Doxygen style comments.
 
 >**Warning**:  
     The code is lacking many protections usually included in production-ready code, like timeouts.
